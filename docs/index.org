@@ -1,5 +1,6 @@
 #+title: I am सक्षम (Midnight1938)
 #+author: Midnight
+#+OPTIONS: num:nil
 #+SETUPFILE: export/setup/theme-darksun-local.setup
 
 #+begin_export html
