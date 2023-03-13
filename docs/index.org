@@ -9,7 +9,16 @@ alt="वाणी रसवती यस्य, यस्य श्रमवत�
 
 
 * About Me
-Just a linux enthusiast, who happens to be a student
+Just a linux enthusiast, who happens to be a student.
+
++ Currently working on [[github:SabFaltu/Project-Sattra][Project सत्त्र]]
+
+** My organizations
+*** [[github:SabFaltu][Sab faltu]]
+An organization for bigger projects
+*** [[github:Collegaria][Collegeria]]
+For college projects.
+- Such as [[github:Collegaria/Project-Ekant][Project एकांत]]
 * Programming Languages and Co
 ** C++
 ** Flutter
