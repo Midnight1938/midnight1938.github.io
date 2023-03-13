@@ -1,0 +1,21 @@
+#+title: A simple Little website
+
+Built using Emacs Orgmode
+
+* Future Plans
+
+- Switch to Jekyll
+- Possible Blog?
+
+** Proposed Themes
+
+*** Jekyll
+
+- [[https://jekyllthemes.io/theme/vonge][Vonge]]
+
+*** JS / Flutter
+- [[https://dribbble.com/shots/20753864-kawsar-design][Kawsar]]
+  - [[kawsar.design][Site]]
+- [[https://dribbble.com/shots/20165734-M3TRO-Website-Concept][M3tro]]
+- [[https://dribbble.com/shots/20755199-Fashion-and-art-gallery-website][fashionista]]
+- [[https://dribbble.com/shots/18965952-Corporate-Website][Corporate]]
